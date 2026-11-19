@@ -1,0 +1,10 @@
+.venv/
+.venv-windows/
+__pycache__/
+*.py[cod]
+.DS_Store
+~$*.xlsx
+execl/*.xlsx
+summary_result*.xlsx
+build/
+dist/
